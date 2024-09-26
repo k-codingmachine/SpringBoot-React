@@ -16,6 +16,9 @@
 - [프로젝트 설계](https://github.com/k-codingmachine/SpringBoot-React#-프로젝트-설계)
 - [핵심 기능](https://github.com/k-codingmachine/SpringBoot-React#-핵심-기능)
 - [주요기능 실행화면](https://github.com/k-codingmachine/SpringBoot-React#-주요기능-실행화면)
+- [개선사항](https://github.com/k-codingmachine/SpringBoot-React#-개선사항)
+- [후기](https://github.com/k-codingmachine/SpringBoot-React#-후기기)
+  
   
 
 
@@ -175,11 +178,16 @@
  
 </details>
 
+## 🌄 개선사항
+- 
+
+
+## 👻 후기
+
+이번 개인 프로젝트를 처음 설계할 때 디테일한 부분을 놓쳐 불필요한 시간이 소요된 점이 있었습니다. 또한, 리액트를 처음 사용하면서 원하는 대로 응용하는 데 어려움이 있었고, 스프링부트 역시 첫 프로젝트 경험이라 익숙해지기까지 시간이 걸렸습니다. 그럼에도 불구하고 포기하지 않고 끝까지 프로젝트를 완성할 수 있어서 정말 기뻤고, 이번 경험을 통해 한층 더 성장할 수 있었습니다.
 
 
 
-<img src="https://github.com/user-attachments/assets/cf8fe243-4a05-4558-874c-30f45f90333c" style="width:20px">
-</img>
 
 
 
