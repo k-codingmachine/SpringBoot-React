@@ -1,4 +1,4 @@
-<h1 align='center'> <img src='https://github.com/user-attachments/assets/79c51a75-a408-4f45-90e7-4ff3bc8522b4' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://kr.freepik.com/premium-vector/hospital-vector-isolated-icon-hospital-building-emoji-illustration-hospital-vector-illustration_58481911.htm' style='width: 300px; height: 200px;'>&nbsp;</h1>
 
 <h1  align='center'>🏥💊병원 & 약국 지도 프로젝트</h1>
 <div align='center'>
