@@ -21,8 +21,8 @@
 
 
 ## 🚩 개요
-- 프로젝트 목표 : 다양한 `API`를 활용한 `스프링` , `마이바티스` 의류 쇼핑몰 프로젝트
-- 개발기간 : 23/11/27 ~ 23/12/15
+- 프로젝트 목표 : 다양한 `API`를 활용한 `SPRINGBOOT` , `REACT` 병원 & 약국 지도 프로젝트
+- 개발기간 : 24/08/19 ~ 24/09/24
 
 
 
@@ -47,46 +47,30 @@
 
 
 
-#### 상품
-- 의류 쇼핑몰 사이트를 이용해 상품정보 DB 저장
-- 상품 정렬(낮은 가격, 높은 가격, 등록순)
-- 상품 검색(상품이름, 카테고리, 색상, 색상+상품이름)
-- 관심상품
-- 상품 정보 제공
+#### 검색
+- 공공 데이터를 활용해 약국 & 병원 정보 DB저장
+- 약국 & 병원 검색(키워드 검색, 지역 검색)
+- 무한스크롤
+
 
 #### 유저
+- JWT, REFRESH 토근을 이용한 로그인 및 로그아웃
 - 소셜 로그인 및 간편 회원가입
-- 이메일 중복 처리
+- 아이디 중복 처리
 - 비밀번호 암호화 처리
-- 다음 우편주소 API
-- 마이페이지(장바구니, 관심상품, 사용 가능한 쿠폰, 주문내역, 배송지 관리, 내 게시글) 
-- 유저 정보 수정
-- 비밀번호 찾기
+- 비밀번호 확인
 
-#### 장바구니
-- 상품 장바구니에 담기 및 제거
-- 실시간 수량 수정후 결제
-- 같은 상품, 같은 사이즈 장바구니 담을 시 수량 증가
 
-#### 주문
-- 장바구니 상품 주문
-- 주문 정보 확인
-- IamportAPI 이용한 결제
+#### 지도
+- 줌에 따라 일정 범위의 클러스터 조절
+- 현재 위치 지도에 표시
+- 다른 지역 검색 시 해당 위치로 지도 위치 변경
 
-#### 리뷰(상품리뷰)
-- 리뷰작성
 
-#### 관리자
-- 상품 등록
-- 상품 재고 및 이미지 수정
-- 유저관리 및 통계, 공지사항 CRUD
-- 배송관련
-- 고객의 문의 답변
-
-#### Q&A
-- 비밀글 (작성자, 관리자만 조회 가능)
-- 1:1 문의 작성 및 문의 조회
-- 관리자의 계층형 답글
+#### 리뷰
+- 회원에 한해서 리뷰 작성
+- 비회원은 리뷰 보는 것만 가능
+- 본인이 쓴 리뷰 삭제 가능
 
  
 ## 🎇 주요기능 실행화면
@@ -94,19 +78,24 @@
 
 
 * **메인 화면**
-  * `카테고리` 메뉴를 사용해 카테고리 별로 상품을 확인할 수 있습니다.
+  * `현재 위치 허용` 을 통해 지도에 현재 위치를 표시할 수 있습니다.
     
-    ![main](https://github.com/appcoding-ux/Spring_Project/assets/112378228/32083e30-0b92-4b73-8e52-4aa69a2e27be)
+  ![현재 위치](https://github.com/user-attachments/assets/b8a0dfe1-38b6-46c5-91f1-710982d9db17)
 * **회원가입 및 로그인**
-  * 회원가입시 프론트+서버 검증으로 `잘못 입력된 부분과 그 값`을 다시 보여줍니다.
+  * 회원가입시 비밀번호는 암호화된 상태로 저장됩니다.
   
-  * `다음 우편주소API`를 이용해 배송을 위한 정확한 주소를 가져올 수 있습니다.
-  
-    ![join login](https://github.com/appcoding-ux/Spring_Project/assets/112378228/ebb60ca0-9ddf-4196-a1af-54c55a9c7165)
+  ![회원가입](https://github.com/user-attachments/assets/cf8fe243-4a05-4558-874c-30f45f90333c)
+  * 로그인시 `access 토큰` 을 확인해 검증을 진행합니다.
 
-* **회원 복구 및 비밀번호 변경**
-  * `이메일 인증`을 통해 비밀번호를 변경할 수 있고 만약 탈퇴한 회원은 다시 사이트를 이용할 수 있습니다.
+    ![로그인](https://github.com/user-attachments/assets/e67df1b5-4518-47fe-8811-37beefb38e27)
+
+  * `access 토큰` 이 없거나 만료된 경우 `refresh 토큰` 을 이용하여 재발급을 진행합니다.
+  
+
+* **로그아웃**
+  * `Redis`를 통해 일시적은 블랙리스트를 만들어서 로그아웃을 진행합니다.
  
+    ![로그아웃](https://github.com/user-attachments/assets/2fe171fd-2b74-416c-8df0-9a1466939ea3)
       
 * **상품 상세 조회 및 위시리스트 추가**
   * 상품 목록에서 상품의 사진을 클릭하면 `상품 상세 정보`를 확인할 수 있습니다.
@@ -224,9 +213,6 @@
 <img src="https://github.com/user-attachments/assets/cf8fe243-4a05-4558-874c-30f45f90333c" style="width:20px">
 </img>
 
-![회원가입](https://github.com/user-attachments/assets/cf8fe243-4a05-4558-874c-30f45f90333c)
-
-![현재 위치](https://github.com/user-attachments/assets/b8a0dfe1-38b6-46c5-91f1-710982d9db17)
 
 ![키워드 검색](https://github.com/user-attachments/assets/8141ebcd-ce7b-4eed-bc71-86189755ec47)
 
@@ -240,11 +226,8 @@
 
 ![길찾기](https://github.com/user-attachments/assets/7f7330d0-4895-47ef-8b94-d22152e2626e)
 
-![로그아웃](https://github.com/user-attachments/assets/2fe171fd-2b74-416c-8df0-9a1466939ea3)
 
 ![로그인 안했을때 리뷰 볼수만 있음(+페이징)](https://github.com/user-attachments/assets/6cbb8413-406b-4510-8fa0-f05bf6210bea)
-
-![로그인](https://github.com/user-attachments/assets/e67df1b5-4518-47fe-8811-37beefb38e27)
 
 ![리뷰 저장](https://github.com/user-attachments/assets/6ccceb8e-f022-45ea-820c-f36ca8a57f7f)
 
