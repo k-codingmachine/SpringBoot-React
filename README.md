@@ -1,4 +1,4 @@
-<h1 align='center'> <img src='https://github.com/user-attachments/assets/577abd23-7965-441c-abd4-6769499901ee' style='width: 300px; height: 200px;'>&nbsp;</h1>
+![kakao](https://github.com/user-attachments/assets/b0dd0550-5359-4796-9cce-18281af0295b)<h1 align='center'> <img src='https://github.com/user-attachments/assets/577abd23-7965-441c-abd4-6769499901ee' style='width: 300px; height: 200px;'>&nbsp;</h1>
 
 <h1  align='center'>🏥💊병원 & 약국 지도 프로젝트</h1>
 <div align='center'>
@@ -27,13 +27,14 @@
 
 
 ## 🔧 기술 스택
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
 ## 👾 프로젝트 설계(DIAGRAM)
 <details><summary>프로젝트 설계</summary>   
 <div align="center">          
