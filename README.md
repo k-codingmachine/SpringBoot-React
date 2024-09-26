@@ -42,12 +42,16 @@
 <details><summary>프로젝트 설계</summary>   
 <div align="center">          
 
-| **|[1]![config](https://github.com/user-attachments/assets/10c670f3-7264-4279-8b9e-a80c083121e6)** | **![controller](https://github.com/user-attachments/assets/e5a03b57-5032-42a0-b874-c95db47afe46)
-]** 
-
-| :------: |  :------: |
-| ![3](https://github.com/appcoding-ux/Spring_Project/assets/112378228/623613ba-9831-4b75-98d3-5f90e5b0e686) | ![4](https://github.com/appcoding-ux/Spring_Project/assets/112378228/ebb02617-0c19-4a9e-8868-53efdca2434e) |
-
+![config](https://github.com/user-attachments/assets/8755da23-b900-4ca7-80c1-6e7392a067b3)
+![controller](https://github.com/user-attachments/assets/d27a5acc-8ff4-41a5-b38c-0c7f4294a19a)
+![dto](https://github.com/user-attachments/assets/8bc501af-f384-4a39-b000-8d41fbab2ffb)
+![entity](https://github.com/user-attachments/assets/c7c4c255-a299-4bc5-9e9a-68dabffd1176)
+![jwt](https://github.com/user-attachments/assets/2e1c439c-eb12-453c-8664-29486dc3a816)
+![oauth2](https://github.com/user-attachments/assets/b3b9d5bf-a6b7-4aaf-bb7c-b1cfc327ad14)
+![react](https://github.com/user-attachments/assets/76c408ed-193a-4cd6-a947-ac766eab8382)
+![repository](https://github.com/user-attachments/assets/9edb0726-4254-48e4-a12c-7bfabb097039)
+![service](https://github.com/user-attachments/assets/7878ea31-6d1b-4143-91c7-ebebb3f4eb2d)
+![serviceHospital](https://github.com/user-attachments/assets/afae578e-eb6f-4fc4-b89a-39866019c2e3)
 
 </div>            
 </details>
