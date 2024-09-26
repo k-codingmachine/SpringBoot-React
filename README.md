@@ -100,11 +100,11 @@
   * 회원가입시 비밀번호는 암호화된 상태로 저장됩니다.
   
   ![회원가입](https://github.com/user-attachments/assets/cf8fe243-4a05-4558-874c-30f45f90333c)
-  * 로그인시 `access 토큰` 을 확인해 검증을 진행합니다.
+  * 로그인시 `access`토큰 을 확인해 검증을 진행합니다.
 
     ![로그인](https://github.com/user-attachments/assets/e67df1b5-4518-47fe-8811-37beefb38e27)
 
-  * `access 토큰` 이 없거나 만료된 경우 `refresh 토큰` 을 이용하여 재발급을 진행합니다.
+  * `access` 토큰이 없거나 만료된 경우 `refresh 토큰` 을 이용하여 재발급을 진행합니다.
   
 
 * **로그아웃**
