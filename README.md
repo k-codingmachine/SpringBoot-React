@@ -1,4 +1,4 @@
-![kakao](https://github.com/user-attachments/assets/b0dd0550-5359-4796-9cce-18281af0295b)<h1 align='center'> <img src='https://github.com/user-attachments/assets/577abd23-7965-441c-abd4-6769499901ee' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://github.com/user-attachments/assets/577abd23-7965-441c-abd4-6769499901ee' style='width: 300px; height: 200px;'>&nbsp;</h1>
 
 <h1  align='center'>🏥💊병원 & 약국 지도 프로젝트</h1>
 <div align='center'>
