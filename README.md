@@ -27,17 +27,13 @@
 
 
 ## 🔧 기술 스택
-- API : `카카오 API` `PORTONE API` `VWORLD API` `Tmap API`
-- Language : `Java(11)` `JavaScript(1.5)`
-- Library & Framework : `Spring(5.3.23)` `Junit(4.12)` `Servlet(4.0.1)` `Spring Security`
-- Database : `MySQL(8.0.35)`
-- Target : `Web Browser`
-- Tool : `SpringSource Tool Suite (STS) 3.9.18.RELEASE`
-- Infra : `Linux(Ubuntu)` `EC2`
-- Etc : `Git`
-
-  
-
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 ## 👾 프로젝트 설계(DIAGRAM)
 <details><summary>프로젝트 설계</summary>   
 <div align="center">          
