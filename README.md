@@ -17,7 +17,7 @@
 - [핵심 기능](https://github.com/k-codingmachine/SpringBoot-React#-핵심-기능)
 - [주요기능 실행화면](https://github.com/k-codingmachine/SpringBoot-React#-주요기능-실행화면)
 - [개선사항](https://github.com/k-codingmachine/SpringBoot-React#-개선사항)
-- [후기](https://github.com/k-codingmachine/SpringBoot-React#-후기기)
+- [후기](https://github.com/k-codingmachine/SpringBoot-React#-후기)
   
   
 
