@@ -11,12 +11,11 @@
 
 
 ## 목차
-- [개요](https://github.com/k-codingmachine/Spring-project#-개요)
-- [기술 스택](https://github.com/k-codingmachine/Spring-project#-기술-스택)
-- [프로젝트 설계](https://github.com/k-codingmachine/Spring-project#-프로젝트-설계)
-- [핵심 기능](https://github.com/k-codingmachine/Spring-project#-핵심-기능)
-- [주요기능 실행화면](https://github.com/k-codingmachine/Spring-project#-주요기능-실행화면)
-- [개선사항](https://github.com/k-codingmachine/Spring-project#-개선사항)
+- [개요](https://github.com/k-codingmachine/SpringBoot-React#-개요)
+- [기술 스택](https://github.com/k-codingmachine/SpringBoot-React#-기술-스택)
+- [프로젝트 설계](https://github.com/k-codingmachine/SpringBoot-React#-프로젝트-설계)
+- [핵심 기능](https://github.com/k-codingmachine/SpringBoot-React#-핵심-기능)
+- [주요기능 실행화면](https://github.com/k-codingmachine/SpringBoot-React#-주요기능-실행화면)
   
 
 
@@ -177,11 +176,6 @@
 </details>
 
 
-## 🌄 개선사항
-- 배송전 주문취소 기능
-- 할인율 높은 쿠폰 자동적용
-- 고객의 환불 요청
-- 리뷰 수정, 삭제, 리뷰의 대댓글
 
 
 <img src="https://github.com/user-attachments/assets/cf8fe243-4a05-4558-874c-30f45f90333c" style="width:20px">
