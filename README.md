@@ -36,6 +36,11 @@
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+
+
 
 
 ## 👾 프로젝트 설계(DIAGRAM)
