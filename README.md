@@ -36,14 +36,11 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-<img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=github&logoColor=white">
+  <br><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=gradle&logoColor=white">
-
 
 
 
