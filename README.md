@@ -14,6 +14,7 @@
 - [개요](https://github.com/k-codingmachine/SpringBoot-React#-개요)
 - [기술 스택](https://github.com/k-codingmachine/SpringBoot-React#-기술-스택)
 - [프로젝트 설계](https://github.com/k-codingmachine/SpringBoot-React#-프로젝트-설계)
+- [PPT](https://github.com/k-codingmachine/SpringBoot-React#-PPT)
 - [핵심 기능](https://github.com/k-codingmachine/SpringBoot-React#-핵심-기능)
 - [주요기능 실행화면](https://github.com/k-codingmachine/SpringBoot-React#-주요기능-실행화면)
 - [개선사항](https://github.com/k-codingmachine/SpringBoot-React#-개선사항)
@@ -36,7 +37,9 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=github&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
