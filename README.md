@@ -48,8 +48,6 @@
 
 
 ## 👾 프로젝트 설계(DIAGRAM)
-<details><summary>프로젝트 설계</summary>   
-<div align="center">          
 
 ![config](https://github.com/user-attachments/assets/8755da23-b900-4ca7-80c1-6e7392a067b3)
 ![controller](https://github.com/user-attachments/assets/d27a5acc-8ff4-41a5-b38c-0c7f4294a19a)
@@ -62,8 +60,6 @@
 ![service](https://github.com/user-attachments/assets/7878ea31-6d1b-4143-91c7-ebebb3f4eb2d)
 ![serviceHospital](https://github.com/user-attachments/assets/afae578e-eb6f-4fc4-b89a-39866019c2e3)
 
-</div>            
-</details>
 
 
 
