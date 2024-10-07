@@ -49,8 +49,7 @@
 
 ## 👾 프로젝트 설계(DIAGRAM)
 
-![config](https://github.com/user-attachments/assets/8755da23-b900-4ca7-80c1-6e7392a067b3)
-![controller](https://github.com/user-attachments/assets/d27a5acc-8ff4-41a5-b38c-0c7f4294a19a)
+![config](https://github.com/user-attachments/assets/8755da23-b900-4ca7-80c1-6e7392a067b3)![controller](https://github.com/user-attachments/assets/d27a5acc-8ff4-41a5-b38c-0c7f4294a19a)
 ![dto](https://github.com/user-attachments/assets/8bc501af-f384-4a39-b000-8d41fbab2ffb)
 ![entity](https://github.com/user-attachments/assets/c7c4c255-a299-4bc5-9e9a-68dabffd1176)
 ![jwt](https://github.com/user-attachments/assets/2e1c439c-eb12-453c-8664-29486dc3a816)
